@@ -5,7 +5,17 @@
 
 This project analyzes the OWID Energy Dataset using Power BI.
 
-The goal is to study the evolution of electricity generation from 2000 to 2023, with a focus on renewable energy, fossil fuels, low-carbon sources and differences between countries.
+The main objective is to create an interactive dashboard that helps users understand how electricity generation has changed from 2000 to 2023 and how different energy sources contribute to the global electricity mix.
+
+The analysis focuses on the energy transition, with particular attention to the relationship between fossil fuels, renewable energy and low-carbon sources. Through the dashboard, users can compare countries, observe trends over time and identify which energy sources have the greatest impact on electricity generation.
+
+The project aims to communicate the following messages:
+
+- electricity generation has changed significantly over time;
+- fossil fuels still play an important role in global electricity production;
+- renewable energy is becoming increasingly relevant;
+- countries differ strongly in their electricity mix and carbon intensity;
+- visual analytics can help understand the progress and limitations of the energy transition.
 
 The dashboard tries to answer these questions:
 
@@ -13,7 +23,7 @@ The dashboard tries to answer these questions:
 - How important are renewable sources compared to fossil fuels?
 - Which countries generate the most electricity?
 - What is the composition of the electricity mix?
-
+- How does the energy mix change across countries and years?
 ---
 
 ## Dataset
@@ -193,17 +203,6 @@ Finally, the energy mix changes a lot depending on the country. Some countries r
 
 ---
 
-## Screenshots
-
-### Energy Overview
-
-![Energy Overview](images/energy_overview.png)
-
-### Energy Mix Analysis
-
-![Energy Mix Analysis](images/energy_mix_analysis.png)
-
----
 
 ## Limitations and Improvements
 
